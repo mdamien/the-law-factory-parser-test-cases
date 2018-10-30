@@ -16,9 +16,9 @@
   "stats": {
     "echecs_procedure": 0,
     "input_text_length": 188383,
-    "output_text_length": 417803,
+    "output_text_length": 417801,
     "ratio_articles_growth": 4.0,
-    "ratio_texte_modif": 0.6282262395901577,
+    "ratio_texte_modif": 0.6282240453284542,
     "total_amendements": 1926,
     "total_amendements_adoptes": 312,
     "total_amendements_gouvernement": 58,

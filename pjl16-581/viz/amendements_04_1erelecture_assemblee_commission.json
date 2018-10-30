@@ -11,7 +11,7 @@
       "color": "rgb(30,180,255)",
       "link": "https://2017-2022.nosdeputes.fr/groupe/LC",
       "nom": "Les Constructifs : Républicains, UDI, Indépendants",
-      "order": 17
+      "order": 15
     },
     "LFI": {
       "color": "rgb(204,42,70)",
@@ -23,19 +23,19 @@
       "color": "rgb(30,30,200)",
       "link": "https://2017-2022.nosdeputes.fr/groupe/LR",
       "nom": "Les Républicains",
-      "order": 19
+      "order": 17
     },
     "LREM": {
       "color": "rgb(232,197,5)",
       "link": "https://2017-2022.nosdeputes.fr/groupe/LREM",
       "nom": "La République En Marche",
-      "order": 14
+      "order": 13
     },
     "MODEM": {
       "color": "rgb(247,138,13)",
       "link": "https://2017-2022.nosdeputes.fr/groupe/MODEM",
       "nom": "Mouvement Démocrate et apparentés",
-      "order": 16
+      "order": 14
     },
     "NG": {
       "color": "rgb(255,50,190)",
@@ -47,7 +47,7 @@
       "color": "rgb(165,165,165)",
       "link": "https://2017-2022.nosdeputes.fr/groupe/NI",
       "nom": "Députés Non Inscrits",
-      "order": 20
+      "order": 18
     }
   },
   "id_step": "04_1erelecture_assemblee_commission",

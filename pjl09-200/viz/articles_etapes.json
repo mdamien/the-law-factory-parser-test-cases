@@ -5412,7 +5412,7 @@
           "status": "none"
         },
         {
-          "diff": "both",
+          "diff": "add",
           "directory": "06_cmp_cmp_commission",
           "id_step": "06_cmp_cmp_commission",
           "length": 3759,
@@ -5420,7 +5420,7 @@
           "status": "none"
         },
         {
-          "diff": "both",
+          "diff": "rem",
           "directory": "07_cmp_assemblee_hemicycle",
           "id_step": "07_cmp_assemblee_hemicycle",
           "length": 3761,
@@ -5847,7 +5847,7 @@
           "directory": "05_1erelecture_assemblee_hemicycle",
           "id_step": "05_1erelecture_assemblee_hemicycle",
           "length": 2412,
-          "n_diff": 0.33948717948717944,
+          "n_diff": 0.33914828116983065,
           "status": "none"
         },
         {
@@ -5855,23 +5855,23 @@
           "directory": "06_cmp_cmp_commission",
           "id_step": "06_cmp_cmp_commission",
           "length": 1904,
-          "n_diff": 0.29538461538461536,
+          "n_diff": 0.2955361723961005,
+          "status": "none"
+        },
+        {
+          "diff": "add",
+          "directory": "07_cmp_assemblee_hemicycle",
+          "id_step": "07_cmp_assemblee_hemicycle",
+          "length": 1916,
+          "n_diff": 0.020570670205706687,
           "status": "none"
         },
         {
           "diff": "both",
-          "directory": "07_cmp_assemblee_hemicycle",
-          "id_step": "07_cmp_assemblee_hemicycle",
-          "length": 1916,
-          "n_diff": 0.01990710019907105,
-          "status": "none"
-        },
-        {
-          "diff": "none",
           "directory": "08_cmp_senat_hemicycle",
           "id_step": "08_cmp_senat_hemicycle",
           "length": 1898,
-          "n_diff": 0,
+          "n_diff": 0.0006635700066357497,
           "newnum": "25",
           "status": "none"
         }
@@ -5968,11 +5968,11 @@
         "type": "Titre"
       },
       "04_1erelecture_assemblee_commission": {
-        "title": "Définir et mettre en oeuvre une politique publique de l'alimentation",
+        "title": "Définir et mettre en oeuvre",
         "type": "Titre"
       },
       "05_1erelecture_assemblee_hemicycle": {
-        "title": "Définir et mettre en oeuvre une politique publique de l'alimentation",
+        "title": "Définir et mettre en oeuvre",
         "type": "Titre"
       },
       "06_cmp_cmp_commission": {
@@ -5980,7 +5980,7 @@
         "type": "Titre"
       },
       "07_cmp_assemblee_hemicycle": {
-        "title": "Définir et mettre en oeuvre une politique publique de l'alimentation",
+        "title": "Définir et mettre en oeuvre",
         "type": "Titre"
       },
       "08_cmp_senat_hemicycle": {
@@ -5990,35 +5990,35 @@
     },
     "T2": {
       "00_1erelecture_senat_depot": {
-        "title": "Renforcer la compétitivitéde l'agriculture française",
+        "title": "Renforcer la compétitivité",
         "type": "Titre"
       },
       "01_1erelecture_senat_commission": {
-        "title": "Renforcer la compétitivitéde l'agriculture française",
+        "title": "Renforcer la compétitivité",
         "type": "Titre"
       },
       "02_1erelecture_senat_hemicycle": {
-        "title": "Renforcer la compétitivitéde l'agriculture française",
+        "title": "Renforcer la compétitivité",
         "type": "Titre"
       },
       "04_1erelecture_assemblee_commission": {
-        "title": "Renforcer la compétitivité de l'agriculture française",
+        "title": "Renforcer la compétitivité",
         "type": "Titre"
       },
       "05_1erelecture_assemblee_hemicycle": {
-        "title": "Renforcer la compétitivité de l'agriculture française",
+        "title": "Renforcer la compétitivité",
         "type": "Titre"
       },
       "06_cmp_cmp_commission": {
-        "title": "Renforcer la compétitivitéde l'agriculture française",
+        "title": "Renforcer la compétitivité",
         "type": "Titre"
       },
       "07_cmp_assemblee_hemicycle": {
-        "title": "Renforcer la compétitivité de l'agriculture française",
+        "title": "Renforcer la compétitivité",
         "type": "Titre"
       },
       "08_cmp_senat_hemicycle": {
-        "title": "Renforcer la compétitivitéde l'agriculture française",
+        "title": "Renforcer la compétitivité",
         "type": "Titre"
       }
     },
@@ -6072,7 +6072,7 @@
       },
       "08_cmp_senat_hemicycle": {
         "newnum": "T3",
-        "title": "Améliorer la compétitivitédes exploitations agricoles",
+        "title": "Améliorer la compétitivité",
         "type": "Titre"
       }
     },
@@ -6090,11 +6090,11 @@
         "type": "Titre"
       },
       "04_1erelecture_assemblee_commission": {
-        "title": "Inscrire l'agriculture et la forêt dans un développement durable des territoires",
+        "title": "Inscrire l'agriculture et la forêt",
         "type": "Titre"
       },
       "05_1erelecture_assemblee_hemicycle": {
-        "title": "Inscrire l'agriculture et la forêt dans un développement durable des territoires",
+        "title": "Inscrire l'agriculture et la forêt",
         "type": "Titre"
       },
       "06_cmp_cmp_commission": {
@@ -6102,7 +6102,7 @@
         "type": "Titre"
       },
       "07_cmp_assemblee_hemicycle": {
-        "title": "Inscrire l'agriculture et la forêt dans un développement durable des territoires",
+        "title": "Inscrire l'agriculture et la forêt",
         "type": "Titre"
       },
       "08_cmp_senat_hemicycle": {
@@ -6148,11 +6148,11 @@
         "type": "Titre"
       },
       "04_1erelecture_assemblee_commission": {
-        "title": "Moderniser la gouvernance de la pêche maritime et de l'aquaculture",
+        "title": "Moderniser la gouvernance de la pêche",
         "type": "Titre"
       },
       "05_1erelecture_assemblee_hemicycle": {
-        "title": "Moderniser la gouvernance de la pêche maritime et de l'aquaculture",
+        "title": "Moderniser la gouvernance de la pêche",
         "type": "Titre"
       },
       "06_cmp_cmp_commission": {
@@ -6160,7 +6160,7 @@
         "type": "Titre"
       },
       "07_cmp_assemblee_hemicycle": {
-        "title": "Moderniser la gouvernance de la pêche maritime et de l'aquaculture",
+        "title": "Moderniser la gouvernance de la pêche",
         "type": "Titre"
       },
       "08_cmp_senat_hemicycle": {

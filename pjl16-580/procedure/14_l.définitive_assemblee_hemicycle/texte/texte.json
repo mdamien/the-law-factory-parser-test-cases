@@ -688,14 +688,14 @@
   "sections": [
     {
       "id": "T1",
-      "titre": "Dispositions relatives au président de la république",
+      "titre": "Dispositions relatives",
       "type": "section",
       "type_section": "titre"
     },
     {
       "id": "T1 bis",
       "newid": "T2",
-      "titre": "Dispositions relatives aux membres du gouvernement",
+      "titre": "Dispositions relatives",
       "type": "section",
       "type_section": "titre"
     },
@@ -730,14 +730,14 @@
     {
       "id": "T2C3",
       "newid": "T3C4",
-      "titre": "Dispositions relatives à la \"réserve parlementaire\" et à la \"réserve ministérielle\"",
+      "titre": "Dispositions relatives à la \"réserve parlementaire\"",
       "type": "section",
       "type_section": "chapitre"
     },
     {
       "id": "T2 bis",
       "newid": "T4",
-      "titre": "Dispositions relatives aux obligations déclaratives",
+      "titre": "Dispositions relatives",
       "type": "section",
       "type_section": "titre"
     },

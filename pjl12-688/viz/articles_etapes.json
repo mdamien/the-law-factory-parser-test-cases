@@ -635,12 +635,12 @@
           "diff": "add",
           "directory": "00_1erelecture_assemblee_depot",
           "id_step": "00_1erelecture_assemblee_depot",
-          "length": 256,
+          "length": 246,
           "n_diff": 1,
           "status": "depot"
         },
         {
-          "diff": "both",
+          "diff": "add",
           "directory": "01_1erelecture_assemblee_commission",
           "id_step": "01_1erelecture_assemblee_commission",
           "length": 321,

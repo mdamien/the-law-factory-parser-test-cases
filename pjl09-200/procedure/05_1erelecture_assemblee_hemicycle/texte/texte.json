@@ -502,13 +502,14 @@
         "013": "\"L'Observatoire des distorsions évalue, à la demande des organisations visées au troisième alinéa, l'impact des mesures législatives ou réglementaires affectant les modes de production agricole. Cette expertise comporte une analyse comparative entre la France, les États membres de l'Union européenne et les pays tiers, une étude d'impact économique, social et environnemental et le chiffrage des coûts et bénéfices attendus de ces mesures.\" ;",
         "014": "d) Il est inséré un chapitre II ainsi rédigé :",
         "015": "\"Chapitre II",
-        "016": "\"Observatoire de la formation des prix et des marges des produits alimentaires",
-        "017": "\"Art. L. 692-1. - L'Observatoire de la formation des prix et des marges des produits alimentaires, placé auprès du ministre chargé de l'alimentation et du ministre chargé de la consommation, a pour mission d'éclairer les acteurs économiques et les pouvoirs publics sur la formation des prix et des marges au cours des transactions au sein de la chaîne de commercialisation des produits alimentaires, qu'il s'agisse de produits de l'agriculture, de la pêche ou de l'aquaculture.",
-        "018": "\"Les modalités de désignation du président de l'observatoire, le fonctionnement de l'observatoire ainsi que sa composition sont définis par arrêté.",
-        "019": "\"L'observatoire analyse les données nécessaires à l'exercice de ses missions, recueillies auprès de l'établissement mentionné à l'article L. 621-1 et du service statistique public.",
-        "020": "\"Il étudie les coûts de production au stade de la production agricole, les coûts de transformation et les coûts de distribution dans l'ensemble de la chaîne de commercialisation des produits agricoles.",
-        "021": "\"Il remet chaque année un rapport au Parlement.\"",
-        "022": "II. - (Supprimé)"
+        "016": "\"Observatoire de la formation des prix",
+        "017": "et des marges des produits alimentaires",
+        "018": "\"Art. L. 692-1. - L'Observatoire de la formation des prix et des marges des produits alimentaires, placé auprès du ministre chargé de l'alimentation et du ministre chargé de la consommation, a pour mission d'éclairer les acteurs économiques et les pouvoirs publics sur la formation des prix et des marges au cours des transactions au sein de la chaîne de commercialisation des produits alimentaires, qu'il s'agisse de produits de l'agriculture, de la pêche ou de l'aquaculture.",
+        "019": "\"Les modalités de désignation du président de l'observatoire, le fonctionnement de l'observatoire ainsi que sa composition sont définis par arrêté.",
+        "020": "\"L'observatoire analyse les données nécessaires à l'exercice de ses missions, recueillies auprès de l'établissement mentionné à l'article L. 621-1 et du service statistique public.",
+        "021": "\"Il étudie les coûts de production au stade de la production agricole, les coûts de transformation et les coûts de distribution dans l'ensemble de la chaîne de commercialisation des produits agricoles.",
+        "022": "\"Il remet chaque année un rapport au Parlement.\"",
+        "023": "II. - (Supprimé)"
       },
       "liens": [
         "loi n° 51-711 du 7 juin 1951",
@@ -628,16 +629,17 @@
     {
       "alineas": {
         "001": "I. - L'article L. 551-3 du même code est ainsi modifié :",
-        "002": "1° Au début du premier alinéa, est insérée la mention : \"I. -\" ;",
-        "003": "2° Sont ajoutés des II et III ainsi rédigés :",
-        "004": "\"II. - Le décret mentionné au premier alinéa du I détermine les critères de reconnaissance permettant d'apprécier, conformément au 3° de l'article L. 551-1, si l'activité d'une organisation de producteurs peut être considérée comme suffisante au regard de la concentration des acteurs sur les marchés. Ces critères sont revus tous les cinq ans.",
-        "005": "\"Ce décret fixe également les délais d'adaptation consentis aux organisations de producteurs reconnues dont il serait constaté qu'elles ne satisfont plus à la condition susmentionnée.",
-        "006": "\"III. - Un bilan de l'organisation économique de la production et de l'efficacité des différents modes de commercialisation peut être effectué au regard, notamment, de leur contribution au revenu des producteurs et de leur sécurité juridique vis-à-vis des règles de concurrence.",
-        "007": "\"Au vu de ce bilan et après consultation du conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire, le décret mentionné au premier alinéa du I peut écarter la possibilité de reconnaître des organisations de producteurs dans les conditions prévues au premier alinéa du même I, de façon générale ou pour certains secteurs. Il précise dans ce cas le délai dont disposent les organisations professionnelles reconnues pour mettre leurs statuts en conformité avec le 4° de l'article L. 551-1.\"",
-        "008": "II. - Le premier bilan de l'organisation économique de la production et de l'efficacité des différents modes de commercialisation, mentionné au III de l'article L. 551-3 du même code, est effectué avant le 1er janvier 2012.",
-        "009": "III. - Les organisations de producteurs reconnues peuvent se regrouper, à un échelon territorial pertinent en fonction des filières, pour constituer des associations d'organisations de producteurs. Ces associations d'organisations de producteurs peuvent exercer, sur délégation de leurs membres, tout ou partie de leurs missions.",
-        "010": "Le transfert de propriété entre l'organisation de producteurs et l'association d'organisations de producteurs n'est pas nécessaire dès lors que le transfert de propriété est effectif au premier niveau de l'organisation de producteurs.",
-        "011": "Les associations d'organisations de producteurs peuvent mettre en oeuvre des mesures d'adaptation de la production au marché."
+        "002": "1° Au début du premier alinéa, est insérée la mention :",
+        "003": "\"I. -\" ;",
+        "004": "2° Sont ajoutés des II et III ainsi rédigés :",
+        "005": "\"II. - Le décret mentionné au premier alinéa du I détermine les critères de reconnaissance permettant d'apprécier, conformément au 3° de l'article L. 551-1, si l'activité d'une organisation de producteurs peut être considérée comme suffisante au regard de la concentration des acteurs sur les marchés. Ces critères sont revus tous les cinq ans.",
+        "006": "\"Ce décret fixe également les délais d'adaptation consentis aux organisations de producteurs reconnues dont il serait constaté qu'elles ne satisfont plus à la condition susmentionnée.",
+        "007": "\"III. - Un bilan de l'organisation économique de la production et de l'efficacité des différents modes de commercialisation peut être effectué au regard, notamment, de leur contribution au revenu des producteurs et de leur sécurité juridique vis-à-vis des règles de concurrence.",
+        "008": "\"Au vu de ce bilan et après consultation du conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire, le décret mentionné au premier alinéa du I peut écarter la possibilité de reconnaître des organisations de producteurs dans les conditions prévues au premier alinéa du même I, de façon générale ou pour certains secteurs. Il précise dans ce cas le délai dont disposent les organisations professionnelles reconnues pour mettre leurs statuts en conformité avec le 4° de l'article L. 551-1.\"",
+        "009": "II. - Le premier bilan de l'organisation économique de la production et de l'efficacité des différents modes de commercialisation, mentionné au III de l'article L. 551-3 du même code, est effectué avant le 1er janvier 2012.",
+        "010": "III. - Les organisations de producteurs reconnues peuvent se regrouper, à un échelon territorial pertinent en fonction des filières, pour constituer des associations d'organisations de producteurs. Ces associations d'organisations de producteurs peuvent exercer, sur délégation de leurs membres, tout ou partie de leurs missions.",
+        "011": "Le transfert de propriété entre l'organisation de producteurs et l'association d'organisations de producteurs n'est pas nécessaire dès lors que le transfert de propriété est effectif au premier niveau de l'organisation de producteurs.",
+        "012": "Les associations d'organisations de producteurs peuvent mettre en oeuvre des mesures d'adaptation de la production au marché."
       },
       "liens": [],
       "order": 25,
@@ -2310,13 +2312,13 @@
   "sections": [
     {
       "id": "T1",
-      "titre": "Définir et mettre en oeuvre une politique publique de l'alimentation",
+      "titre": "Définir et mettre en oeuvre",
       "type": "section",
       "type_section": "titre"
     },
     {
       "id": "T2",
-      "titre": "Renforcer la compétitivité de l'agriculture française",
+      "titre": "Renforcer la compétitivité",
       "type": "section",
       "type_section": "titre"
     },
@@ -2334,7 +2336,7 @@
     },
     {
       "id": "T3",
-      "titre": "Inscrire l'agriculture et la forêt dans un développement durable des territoires",
+      "titre": "Inscrire l'agriculture et la forêt",
       "type": "section",
       "type_section": "titre"
     },
@@ -2346,7 +2348,7 @@
     },
     {
       "id": "T4",
-      "titre": "Moderniser la gouvernance de la pêche maritime et de l'aquaculture",
+      "titre": "Moderniser la gouvernance de la pêche",
       "type": "section",
       "type_section": "titre"
     },

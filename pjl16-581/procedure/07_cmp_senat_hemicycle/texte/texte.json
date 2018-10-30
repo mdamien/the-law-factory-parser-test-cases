@@ -117,10 +117,11 @@
     {
       "alineas": {
         "001": "L'article 2 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique est ainsi modifié :",
-        "002": "1° Au début du premier alinéa, est ajoutée la mention :\"I. -\" ;",
-        "003": "2° Il est ajouté un II ainsi rédigé :",
-        "004": "\"II. - Un décret en Conseil d'État détermine les modalités de tenue d'un registre accessible au public, recensant les cas dans lesquels un membre du Gouvernement estime ne pas devoir exercer ses attributions en raison d'une situation de conflit d'intérêts, y compris en Conseil des ministres.",
-        "005": "\"Ce registre est publié par voie électronique, dans un standard ouvert, aisément réutilisable et exploitable par un système de traitement automatisé.\""
+        "002": "1° Au début du premier alinéa, est ajoutée la mention :",
+        "003": "\"I. -\" ;",
+        "004": "2° Il est ajouté un II ainsi rédigé :",
+        "005": "\"II. - Un décret en Conseil d'État détermine les modalités de tenue d'un registre accessible au public, recensant les cas dans lesquels un membre du Gouvernement estime ne pas devoir exercer ses attributions en raison d'une situation de conflit d'intérêts, y compris en Conseil des ministres.",
+        "006": "\"Ce registre est publié par voie électronique, dans un standard ouvert, aisément réutilisable et exploitable par un système de traitement automatisé.\""
       },
       "liens": [
         "article 2 de la loi n° 2013-907 du 11 octobre 2013"
@@ -306,29 +307,30 @@
     {
       "alineas": {
         "001": "I. - L'article 110 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale est ainsi modifié :",
-        "002": "1° Au début du premier alinéa, est ajoutée la mention :\"I. -\" ;",
-        "003": "2° Après le même premier alinéa, sont insérés seize alinéas ainsi rédigés :",
-        "004": "\"Toutefois, il est interdit à l'autorité territoriale de compter parmi les membres de son cabinet :",
-        "005": "\"1° Son conjoint, partenaire lié par un pacte civil de solidarité ou concubin ;",
-        "006": "\"2° Ses parents ou les parents de son conjoint, partenaire lié par un pacte civil de solidarité ou concubin ;",
-        "007": "\"3° Ses enfants ou les enfants de son conjoint, partenaire lié par un pacte civil de solidarité ou concubin ;",
-        "008": "\"4° (Supprimé)",
-        "009": "\"La violation de cette interdiction emporte de plein droit la cessation du contrat.",
-        "010": "\"Un décret en Conseil d'État détermine les modalités selon lesquelles l'autorité territoriale rembourse les sommes versées à un collaborateur employé en violation de l'interdiction prévue au présent I.",
-        "011": "\"Aucune restitution des sommes versées ne peut être exigée du collaborateur.",
-        "012": "\"II. - Le fait, pour l'autorité territoriale, de compter parmi les membres de son cabinet un collaborateur en violation de l'interdiction prévue au I est puni d'une peine de trois ans d'emprisonnement et de 45 000 € d'amende.",
-        "013": "\"III. - Lorsqu'elle est concernée par l'article 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, l'autorité territoriale informe sans délai la Haute Autorité pour la transparence de la vie publique du fait qu'elle compte parmi les membres de son cabinet :",
-        "014": "\"1° Son frère ou sa soeur, ou le conjoint, partenaire lié par un pacte civil de solidarité ou concubin de celui-ci ou celle-ci ;",
-        "015": "\"2° L'enfant de son frère ou de sa soeur, ou le conjoint, partenaire lié par un pacte civil de solidarité ou concubin de cet enfant ;",
-        "016": "\"3° Son ancien conjoint, la personne ayant été liée à elle par un pacte civil de solidarité ou son ancien concubin ;",
-        "017": "\"4° L'enfant, le frère ou la soeur des personnes mentionnées au 3° du présent III ;",
-        "018": "\"5° Le frère ou la soeur des personnes mentionnées au 1° du I.",
-        "019": "\"IV. - Lorsque la Haute Autorité pour la transparence de la vie publique constate en application du III du présent article, de sa propre initiative ou à la suite d'un signalement, qu'une autorité territoriale compte parmi les membres de son cabinet une personne mentionnée au même III d'une manière qui serait susceptible de constituer un conflit d'intérêts, au sens de l'article 2 de la loi n° 2013-907 du 11 octobre 2013 précitée, elle peut faire usage d'un pouvoir d'injonction pour faire cesser cette situation. Elle rend publique cette injonction.",
-        "020": "\"V. - Les II, III et IV du présent article s'appliquent sans préjudice des articles 432-10 à 432-13 et 432-15 du code pénal.\" ;",
-        "021": "3° Le deuxième alinéa est ainsi modifié :",
-        "022": "a) Au début, est ajoutée la mention : \"VI. -\" ;",
-        "023": "b) Les mots : \"à ces emplois\" sont remplacés par les mots : \"aux emplois mentionnés au premier alinéa du I\".",
-        "024": "II. - Les I à VI de l'article 110 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, dans leur rédaction résultant de la présente loi, sont applicables à la commune et au département de Paris et, à compter du 1er janvier 2019, à la Ville de Paris."
+        "002": "1° Au début du premier alinéa, est ajoutée la mention :",
+        "003": "\"I. -\" ;",
+        "004": "2° Après le même premier alinéa, sont insérés seize alinéas ainsi rédigés :",
+        "005": "\"Toutefois, il est interdit à l'autorité territoriale de compter parmi les membres de son cabinet :",
+        "006": "\"1° Son conjoint, partenaire lié par un pacte civil de solidarité ou concubin ;",
+        "007": "\"2° Ses parents ou les parents de son conjoint, partenaire lié par un pacte civil de solidarité ou concubin ;",
+        "008": "\"3° Ses enfants ou les enfants de son conjoint, partenaire lié par un pacte civil de solidarité ou concubin ;",
+        "009": "\"4° (Supprimé)",
+        "010": "\"La violation de cette interdiction emporte de plein droit la cessation du contrat.",
+        "011": "\"Un décret en Conseil d'État détermine les modalités selon lesquelles l'autorité territoriale rembourse les sommes versées à un collaborateur employé en violation de l'interdiction prévue au présent I.",
+        "012": "\"Aucune restitution des sommes versées ne peut être exigée du collaborateur.",
+        "013": "\"II. - Le fait, pour l'autorité territoriale, de compter parmi les membres de son cabinet un collaborateur en violation de l'interdiction prévue au I est puni d'une peine de trois ans d'emprisonnement et de 45 000 € d'amende.",
+        "014": "\"III. - Lorsqu'elle est concernée par l'article 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, l'autorité territoriale informe sans délai la Haute Autorité pour la transparence de la vie publique du fait qu'elle compte parmi les membres de son cabinet :",
+        "015": "\"1° Son frère ou sa soeur, ou le conjoint, partenaire lié par un pacte civil de solidarité ou concubin de celui-ci ou celle-ci ;",
+        "016": "\"2° L'enfant de son frère ou de sa soeur, ou le conjoint, partenaire lié par un pacte civil de solidarité ou concubin de cet enfant ;",
+        "017": "\"3° Son ancien conjoint, la personne ayant été liée à elle par un pacte civil de solidarité ou son ancien concubin ;",
+        "018": "\"4° L'enfant, le frère ou la soeur des personnes mentionnées au 3° du présent III ;",
+        "019": "\"5° Le frère ou la soeur des personnes mentionnées au 1° du I.",
+        "020": "\"IV. - Lorsque la Haute Autorité pour la transparence de la vie publique constate en application du III du présent article, de sa propre initiative ou à la suite d'un signalement, qu'une autorité territoriale compte parmi les membres de son cabinet une personne mentionnée au même III d'une manière qui serait susceptible de constituer un conflit d'intérêts, au sens de l'article 2 de la loi n° 2013-907 du 11 octobre 2013 précitée, elle peut faire usage d'un pouvoir d'injonction pour faire cesser cette situation. Elle rend publique cette injonction.",
+        "021": "\"V. - Les II, III et IV du présent article s'appliquent sans préjudice des articles 432-10 à 432-13 et 432-15 du code pénal.\" ;",
+        "022": "3° Le deuxième alinéa est ainsi modifié :",
+        "023": "a) Au début, est ajoutée la mention : \"VI. -\" ;",
+        "024": "b) Les mots : \"à ces emplois\" sont remplacés par les mots : \"aux emplois mentionnés au premier alinéa du I\".",
+        "025": "II. - Les I à VI de l'article 110 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, dans leur rédaction résultant de la présente loi, sont applicables à la commune et au département de Paris et, à compter du 1er janvier 2019, à la Ville de Paris."
       },
       "liens": [
         "article 110 de la loi n° 84-53 du 26 janvier 1984",
@@ -390,25 +392,26 @@
     {
       "alineas": {
         "001": "L'article 72-6 de l'ordonnance n° 2005-10 du 4 janvier 2005 portant statut général des fonctionnaires des communes et des groupements de communes de la Polynésie française ainsi que de leurs établissements publics administratifs est ainsi modifié :",
-        "002": "1° Au début du premier alinéa, est ajoutée la mention :\"I. -\" ;",
-        "003": "2° Après le premier alinéa, sont insérés seize alinéas ainsi rédigés :",
-        "004": "\"II. - Toutefois, il est interdit au maire ou au président d'un groupement de communes de compter parmi les membres de son cabinet :",
-        "005": "\"1° Son conjoint, partenaire lié par un pacte civil de solidarité ou concubin ;",
-        "006": "\"2° Ses parents ou les parents de son conjoint, partenaire lié par un pacte civil de solidarité ou concubin ;",
-        "007": "\"3° Ses enfants ou les enfants de son conjoint, partenaire lié par un pacte civil de solidarité ou concubin.",
-        "008": "\"La violation de cette interdiction emporte de plein droit la cessation du contrat.",
-        "009": "\"Un décret en Conseil d'État détermine les modalités selon lesquelles le maire ou le président du groupement de communes rembourse les sommes versées en violation de cette interdiction.",
-        "010": "\"Aucune restitution des sommes versées ne peut être exigée du membre du cabinet.",
-        "011": "\"Le fait, pour un maire ou un président d'un groupement de communes, de compter l'une des personnes mentionnées aux 1° à 3° du présent II parmi les membres de son cabinet est puni de la peine prévue au II de l'article 110 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale.",
-        "012": "\"III. - Lorsqu'il est concerné par l'article 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, le maire ou le président du groupement de communes informe sans délai la Haute Autorité pour la transparence de la vie publique du fait qu'il compte parmi les membres de son cabinet :",
-        "013": "\"1° Son frère ou sa soeur, ou le conjoint, partenaire lié par un pacte civil de solidarité ou concubin de celui-ci ou celle-ci ;",
-        "014": "\"2° L'enfant de son frère ou de sa soeur, ou le conjoint, partenaire lié par un pacte civil de solidarité ou concubin de cet enfant ;",
-        "015": "\"3° Son ancien conjoint, la personne ayant été liée à lui par un pacte civil de solidarité ou son ancien concubin ;",
-        "016": "\"4° L'enfant, le frère ou la soeur des personnes mentionnées au 3° du présent III ;",
-        "017": "\"5° Le frère ou la soeur des personnes mentionnées au 1° du II.",
-        "018": "\"IV. - Lorsque la Haute Autorité pour la transparence de la vie publique constate en application du III du présent article, de sa propre initiative ou à la suite d'un signalement, que le maire ou le président du groupement de communes compte parmi les membres de son cabinet une personne mentionnée au même III d'une manière qui serait susceptible de constituer un conflit d'intérêts, au sens de l'article 2 de la loi n° 2013-907 du 11 octobre 2013 précitée, elle peut faire usage d'un pouvoir d'injonction pour faire cesser cette situation. Elle rend publique cette injonction.",
-        "019": "\"V. - Les III et IV du présent article s'appliquent sans préjudice des articles 432-10 à 432-13 et 432-15 du code pénal.\" ;",
-        "020": "3° Le début du deuxième alinéa est ainsi rédigé : \"VI. - Les fonctions des collaborateurs de cabinet prennent... (le reste sans changement).\""
+        "002": "1° Au début du premier alinéa, est ajoutée la mention :",
+        "003": "\"I. -\" ;",
+        "004": "2° Après le premier alinéa, sont insérés seize alinéas ainsi rédigés :",
+        "005": "\"II. - Toutefois, il est interdit au maire ou au président d'un groupement de communes de compter parmi les membres de son cabinet :",
+        "006": "\"1° Son conjoint, partenaire lié par un pacte civil de solidarité ou concubin ;",
+        "007": "\"2° Ses parents ou les parents de son conjoint, partenaire lié par un pacte civil de solidarité ou concubin ;",
+        "008": "\"3° Ses enfants ou les enfants de son conjoint, partenaire lié par un pacte civil de solidarité ou concubin.",
+        "009": "\"La violation de cette interdiction emporte de plein droit la cessation du contrat.",
+        "010": "\"Un décret en Conseil d'État détermine les modalités selon lesquelles le maire ou le président du groupement de communes rembourse les sommes versées en violation de cette interdiction.",
+        "011": "\"Aucune restitution des sommes versées ne peut être exigée du membre du cabinet.",
+        "012": "\"Le fait, pour un maire ou un président d'un groupement de communes, de compter l'une des personnes mentionnées aux 1° à 3° du présent II parmi les membres de son cabinet est puni de la peine prévue au II de l'article 110 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale.",
+        "013": "\"III. - Lorsqu'il est concerné par l'article 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, le maire ou le président du groupement de communes informe sans délai la Haute Autorité pour la transparence de la vie publique du fait qu'il compte parmi les membres de son cabinet :",
+        "014": "\"1° Son frère ou sa soeur, ou le conjoint, partenaire lié par un pacte civil de solidarité ou concubin de celui-ci ou celle-ci ;",
+        "015": "\"2° L'enfant de son frère ou de sa soeur, ou le conjoint, partenaire lié par un pacte civil de solidarité ou concubin de cet enfant ;",
+        "016": "\"3° Son ancien conjoint, la personne ayant été liée à lui par un pacte civil de solidarité ou son ancien concubin ;",
+        "017": "\"4° L'enfant, le frère ou la soeur des personnes mentionnées au 3° du présent III ;",
+        "018": "\"5° Le frère ou la soeur des personnes mentionnées au 1° du II.",
+        "019": "\"IV. - Lorsque la Haute Autorité pour la transparence de la vie publique constate en application du III du présent article, de sa propre initiative ou à la suite d'un signalement, que le maire ou le président du groupement de communes compte parmi les membres de son cabinet une personne mentionnée au même III d'une manière qui serait susceptible de constituer un conflit d'intérêts, au sens de l'article 2 de la loi n° 2013-907 du 11 octobre 2013 précitée, elle peut faire usage d'un pouvoir d'injonction pour faire cesser cette situation. Elle rend publique cette injonction.",
+        "020": "\"V. - Les III et IV du présent article s'appliquent sans préjudice des articles 432-10 à 432-13 et 432-15 du code pénal.\" ;",
+        "021": "3° Le début du deuxième alinéa est ainsi rédigé : \"VI. - Les fonctions des collaborateurs de cabinet prennent... (le reste sans changement).\""
       },
       "liens": [
         "article 72-6 de l'ordonnance n° 2005-10 du 4 janvier 2005",
@@ -880,7 +883,7 @@
   "sections": [
     {
       "id": "T1",
-      "titre": "Dispositions relativesà la peine d'inéligibilité en cas de crimes ou de manquements à la probité",
+      "titre": "Dispositions relatives",
       "type": "section",
       "type_section": "titre"
     },
@@ -892,37 +895,37 @@
     },
     {
       "id": "T2 bis",
-      "titre": "Dispositions relatives aux obligations déclaratives",
+      "titre": "Dispositions relatives",
       "type": "section",
       "type_section": "titre"
     },
     {
       "id": "T3",
-      "titre": "Dispositions relatives aux emplois de collaborateur parlementaire à l'assemblée nationale et au sénat, de collaborateur de ministre et de collaborateur d'élu local",
+      "titre": "Dispositions relatives aux emplois",
       "type": "section",
       "type_section": "titre"
     },
     {
       "id": "T4",
-      "titre": "Dispositions relatives à l'indemnité des membres du parlement",
+      "titre": "Dispositions relatives",
       "type": "section",
       "type_section": "titre"
     },
     {
       "id": "T4 bis A",
-      "titre": "Dispositions relatives à la nomination des membres du gouvernement",
+      "titre": "Dispositions relatives",
       "type": "section",
       "type_section": "titre"
     },
     {
       "id": "T4 bis",
-      "titre": "Dispositions relatives aux frais de réception et de représentation des membres du gouvernement ainsi qu'à leur situation fiscale",
+      "titre": "Dispositions relatives aux frais de réception et",
       "type": "section",
       "type_section": "titre"
     },
     {
       "id": "T5",
-      "titre": "Dispositions relatives au financement de la vie politique",
+      "titre": "Dispositions relatives",
       "type": "section",
       "type_section": "titre"
     },
@@ -946,7 +949,7 @@
     },
     {
       "id": "T6",
-      "titre": "Dispositions relatives aux représentants au parlement européen",
+      "titre": "Dispositions relatives",
       "type": "section",
       "type_section": "titre"
     },

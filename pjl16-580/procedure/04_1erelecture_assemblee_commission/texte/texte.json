@@ -708,13 +708,13 @@
   "sections": [
     {
       "id": "T1",
-      "titre": "Dispositions relatives au président de la république",
+      "titre": "Dispositions relatives",
       "type": "section",
       "type_section": "titre"
     },
     {
       "id": "T1 bis",
-      "titre": "Dispositions relatives aux membres du gouvernement",
+      "titre": "Dispositions relatives aux membres",
       "type": "section",
       "type_section": "titre"
     },
@@ -750,7 +750,7 @@
     },
     {
       "id": "T2C4",
-      "titre": "Renforcement des obligations de publicité de la \"réserve ministérielle\"",
+      "titre": "Renforcement des obligations de publicité",
       "type": "section",
       "type_section": "chapitre"
     },

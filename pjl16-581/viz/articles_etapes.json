@@ -440,7 +440,7 @@
           "status": "none"
         },
         {
-          "diff": "both",
+          "diff": "rem",
           "directory": "04_1erelecture_assemblee_commission",
           "id_step": "04_1erelecture_assemblee_commission",
           "length": 2817,
@@ -448,7 +448,7 @@
           "status": "none"
         },
         {
-          "diff": "both",
+          "diff": "add",
           "directory": "05_1erelecture_assemblee_hemicycle",
           "id_step": "05_1erelecture_assemblee_hemicycle",
           "length": 2380,
@@ -481,7 +481,7 @@
           "status": "none"
         },
         {
-          "diff": "both",
+          "diff": "add",
           "directory": "09_constitutionnalité_conseilconstitutionnel_",
           "id_step": "09_constitutionnalité_conseilconstitutionnel_",
           "length": 2384,
@@ -848,11 +848,11 @@
           "status": "new"
         },
         {
-          "diff": "none",
+          "diff": "rem",
           "directory": "02_1erelecture_senat_hemicycle",
           "id_step": "02_1erelecture_senat_hemicycle",
           "length": 515,
-          "n_diff": 0,
+          "n_diff": 0.0025316455696202667,
           "status": "none"
         },
         {
@@ -872,19 +872,19 @@
           "status": "new"
         },
         {
-          "diff": "none",
+          "diff": "rem",
           "directory": "07_cmp_senat_hemicycle",
           "id_step": "07_cmp_senat_hemicycle",
-          "length": 664,
-          "n_diff": 0,
+          "length": 665,
+          "n_diff": 0.0019230769230769162,
           "status": "none"
         },
         {
-          "diff": "none",
+          "diff": "add",
           "directory": "08_cmp_assemblee_hemicycle",
           "id_step": "08_cmp_assemblee_hemicycle",
           "length": 665,
-          "n_diff": 0,
+          "n_diff": 0.0019230769230769162,
           "newnum": "6",
           "status": "none"
         },
@@ -1698,7 +1698,7 @@
           "directory": "02_1erelecture_senat_hemicycle",
           "id_step": "02_1erelecture_senat_hemicycle",
           "length": 1812,
-          "n_diff": 0.07311827956989247,
+          "n_diff": 0.07317073170731703,
           "status": "none"
         },
         {
@@ -1706,7 +1706,7 @@
           "directory": "04_1erelecture_assemblee_commission",
           "id_step": "04_1erelecture_assemblee_commission",
           "length": 3084,
-          "n_diff": 0.46105789254477303,
+          "n_diff": 0.46147438567263643,
           "status": "none"
         },
         {
@@ -1726,19 +1726,19 @@
           "status": "none"
         },
         {
-          "diff": "none",
+          "diff": "rem",
           "directory": "07_cmp_senat_hemicycle",
           "id_step": "07_cmp_senat_hemicycle",
-          "length": 3319,
-          "n_diff": 0,
+          "length": 3320,
+          "n_diff": 0.0003909304143862036,
           "status": "none"
         },
         {
-          "diff": "none",
+          "diff": "add",
           "directory": "08_cmp_assemblee_hemicycle",
           "id_step": "08_cmp_assemblee_hemicycle",
           "length": 3304,
-          "n_diff": 0,
+          "n_diff": 0.0003909304143862036,
           "newnum": "15",
           "status": "none"
         },
@@ -1842,19 +1842,19 @@
           "status": "none"
         },
         {
-          "diff": "both",
+          "diff": "rem",
           "directory": "07_cmp_senat_hemicycle",
           "id_step": "07_cmp_senat_hemicycle",
-          "length": 3198,
-          "n_diff": 0.004405286343612369,
+          "length": 3199,
+          "n_diff": 0.004407051282051322,
           "status": "none"
         },
         {
-          "diff": "none",
+          "diff": "add",
           "directory": "08_cmp_assemblee_hemicycle",
           "id_step": "08_cmp_assemblee_hemicycle",
           "length": 3197,
-          "n_diff": 0,
+          "n_diff": 0.00040048057669206383,
           "newnum": "17",
           "status": "none"
         },
@@ -2540,7 +2540,7 @@
           "status": "none"
         },
         {
-          "diff": "both",
+          "diff": "rem",
           "directory": "04_1erelecture_assemblee_commission",
           "id_step": "04_1erelecture_assemblee_commission",
           "length": 8277,
@@ -2564,7 +2564,7 @@
           "status": "none"
         },
         {
-          "diff": "both",
+          "diff": "add",
           "directory": "07_cmp_senat_hemicycle",
           "id_step": "07_cmp_senat_hemicycle",
           "length": 8906,
@@ -2727,7 +2727,7 @@
   "sections": {
     "T1": {
       "00_1erelecture_senat_depot": {
-        "title": "Dispositions relatives à la peine d'inéligibilitéen cas de crimes ou de manquements a la probité",
+        "title": "Dispositions relatives à la peine d'inéligibilité",
         "type": "Titre"
       },
       "01_1erelecture_senat_commission": {
@@ -2735,27 +2735,27 @@
         "type": "Titre"
       },
       "02_1erelecture_senat_hemicycle": {
-        "title": "Dispositions relativesà la peine d'inéligibilité en cas de crimes ou de manquements à la probité",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "04_1erelecture_assemblee_commission": {
-        "title": "Dispositions relatives à la peine d'inéligibilité en cas de crimes ou de manquements à la probité",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "05_1erelecture_assemblee_hemicycle": {
-        "title": "Dispositions relatives à la peine d'inéligibilité en cas de crimes ou de manquements à la probité",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "06_cmp_cmp_commission": {
-        "title": "Dispositions relativesà la peine d'inéligibilité en cas de crimes ou de manquements à la probité",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "07_cmp_senat_hemicycle": {
-        "title": "Dispositions relativesà la peine d'inéligibilité en cas de crimes ou de manquements à la probité",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "08_cmp_assemblee_hemicycle": {
-        "title": "Dispositions relatives à la peine d'inéligibilité en cas de crimes ou de manquements à la probité",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "09_constitutionnalité_conseilconstitutionnel_": {
@@ -2777,11 +2777,11 @@
         "type": "Titre"
       },
       "04_1erelecture_assemblee_commission": {
-        "title": "Dispositions relatives à la prévention des conflits d'intérêts",
+        "title": "Dispositions relatives à la prévention",
         "type": "Titre"
       },
       "05_1erelecture_assemblee_hemicycle": {
-        "title": "Dispositions relatives à la prévention des conflits d'intérêts",
+        "title": "Dispositions relatives à la prévention",
         "type": "Titre"
       },
       "06_cmp_cmp_commission": {
@@ -2793,7 +2793,7 @@
         "type": "Titre"
       },
       "08_cmp_assemblee_hemicycle": {
-        "title": "Dispositions relatives à la prévention des conflits d'intérêts",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "09_constitutionnalité_conseilconstitutionnel_": {
@@ -2811,24 +2811,24 @@
         "type": "Titre"
       },
       "04_1erelecture_assemblee_commission": {
-        "title": "Dispositions relatives aux obligations déclaratives",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "05_1erelecture_assemblee_hemicycle": {
-        "title": "Dispositions relatives aux obligations déclaratives",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "06_cmp_cmp_commission": {
-        "title": "Dispositions relatives aux obligations déclaratives",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "07_cmp_senat_hemicycle": {
-        "title": "Dispositions relatives aux obligations déclaratives",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "08_cmp_assemblee_hemicycle": {
         "newnum": "T3",
-        "title": "Dispositions relatives aux obligations déclaratives",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "09_constitutionnalité_conseilconstitutionnel_": {
@@ -2853,28 +2853,28 @@
         "type": "Titre"
       },
       "02_1erelecture_senat_hemicycle": {
-        "title": "Dispositions relatives aux emplois de collaborateur parlementaireà l'assemblée nationale et au sénat,de collaborateur de ministre et de collaborateur d'élu local",
+        "title": "Dispositions relatives aux emplois de collaborateur parlementaire",
         "type": "Titre"
       },
       "04_1erelecture_assemblee_commission": {
-        "title": "Dispositions relatives aux emplois de collaborateur parlementaire à l'assemblée nationale et au sénat, de collaborateur de ministre et de collaborateur d'élu local",
+        "title": "Dispositions relatives aux emplois",
         "type": "Titre"
       },
       "05_1erelecture_assemblee_hemicycle": {
-        "title": "Dispositions relatives aux emplois de collaborateur parlementaire à l'assemblée nationale et au sénat, de collaborateur de ministre et de collaborateur d'élu local",
+        "title": "Dispositions relatives aux emplois",
         "type": "Titre"
       },
       "06_cmp_cmp_commission": {
-        "title": "Dispositions relatives aux emplois de collaborateur parlementaire à l'assemblée nationale et au sénat, de collaborateur de ministre et de collaborateur d'élu local",
+        "title": "Dispositions relatives aux emplois",
         "type": "Titre"
       },
       "07_cmp_senat_hemicycle": {
-        "title": "Dispositions relatives aux emplois de collaborateur parlementaire à l'assemblée nationale et au sénat, de collaborateur de ministre et de collaborateur d'élu local",
+        "title": "Dispositions relatives aux emplois",
         "type": "Titre"
       },
       "08_cmp_assemblee_hemicycle": {
         "newnum": "T4",
-        "title": "Dispositions relatives aux emplois de collaborateur parlementaire à l'assemblée nationale et au sénat, de collaborateur de ministre et de collaborateur d'élu local",
+        "title": "Dispositions relatives aux emplois",
         "type": "Titre"
       },
       "09_constitutionnalité_conseilconstitutionnel_": {
@@ -2885,7 +2885,7 @@
     },
     "T4": {
       "00_1erelecture_senat_depot": {
-        "title": "Dispositions relatives à l'indemnitédes membres du parlement",
+        "title": "Dispositions relatives à l'indemnité",
         "type": "Titre"
       },
       "01_1erelecture_senat_commission": {
@@ -2901,20 +2901,20 @@
         "type": "Titre"
       },
       "05_1erelecture_assemblee_hemicycle": {
-        "title": "Dispositions relatives à l'indemnité des membres du parlement",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "06_cmp_cmp_commission": {
-        "title": "Dispositions relatives à l'indemnité des membres du parlement",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "07_cmp_senat_hemicycle": {
-        "title": "Dispositions relatives à l'indemnité des membres du parlement",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "08_cmp_assemblee_hemicycle": {
         "newnum": "T5",
-        "title": "Dispositions relatives à l'indemnité des membres du parlement",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "09_constitutionnalité_conseilconstitutionnel_": {
@@ -2933,24 +2933,24 @@
         "type": "Titre"
       },
       "04_1erelecture_assemblee_commission": {
-        "title": "Dispositions relatives aux frais de réception et de représentation des membres du gouvernement ainsi qu'à leur situation fiscale",
+        "title": "Dispositions relatives aux frais de réception et",
         "type": "Titre"
       },
       "05_1erelecture_assemblee_hemicycle": {
-        "title": "Dispositions relatives aux frais de réception et de représentation des membres du gouvernement ainsi qu'à leur situation fiscale",
+        "title": "Dispositions relatives aux frais de réception et",
         "type": "Titre"
       },
       "06_cmp_cmp_commission": {
-        "title": "Dispositions relatives aux frais de réception et de représentation des membres du gouvernement ainsi qu'à leur situation fiscale",
+        "title": "Dispositions relatives aux frais de réception et",
         "type": "Titre"
       },
       "07_cmp_senat_hemicycle": {
-        "title": "Dispositions relatives aux frais de réception et de représentation des membres du gouvernement ainsi qu'à leur situation fiscale",
+        "title": "Dispositions relatives aux frais de réception et",
         "type": "Titre"
       },
       "08_cmp_assemblee_hemicycle": {
         "newnum": "T7",
-        "title": "Dispositions relatives aux frais de réception et de représentation des membres du gouvernement ainsi qu'à leur situation fiscale",
+        "title": "Dispositions relatives aux frais de réception et",
         "type": "Titre"
       },
       "09_constitutionnalité_conseilconstitutionnel_": {
@@ -2969,20 +2969,20 @@
         "type": "Titre"
       },
       "05_1erelecture_assemblee_hemicycle": {
-        "title": "Dispositions relatives à la nomination des membres du gouvernement",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "06_cmp_cmp_commission": {
-        "title": "Dispositions relatives à la nomination des membres du gouvernement",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "07_cmp_senat_hemicycle": {
-        "title": "Dispositions relatives à la nomination des membres du gouvernement",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "08_cmp_assemblee_hemicycle": {
         "newnum": "T6",
-        "title": "Dispositions relatives à la nomination des membres du gouvernement",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "09_constitutionnalité_conseilconstitutionnel_": {
@@ -3007,28 +3007,28 @@
         "type": "Titre"
       },
       "02_1erelecture_senat_hemicycle": {
-        "title": "Dispositions relatives au financement de la vie politique",
+        "title": "Dispositions relatives au financement",
         "type": "Titre"
       },
       "04_1erelecture_assemblee_commission": {
-        "title": "Dispositions relatives au financement de la vie politique",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "05_1erelecture_assemblee_hemicycle": {
-        "title": "Dispositions relatives au financement de la vie politique",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "06_cmp_cmp_commission": {
-        "title": "Dispositions relatives au financement de la vie politique",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "07_cmp_senat_hemicycle": {
-        "title": "Dispositions relatives au financement de la vie politique",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "08_cmp_assemblee_hemicycle": {
         "newnum": "T8",
-        "title": "Dispositions relatives au financement de la vie politique",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "09_constitutionnalité_conseilconstitutionnel_": {
@@ -3189,20 +3189,20 @@
         "type": "Titre"
       },
       "05_1erelecture_assemblee_hemicycle": {
-        "title": "Dispositions relatives aux représentants au parlement européen",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "06_cmp_cmp_commission": {
-        "title": "Dispositions relatives aux représentants au parlement européen",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "07_cmp_senat_hemicycle": {
-        "title": "Dispositions relatives aux représentants au parlement européen",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "08_cmp_assemblee_hemicycle": {
         "newnum": "T9",
-        "title": "Dispositions relatives aux représentants au parlement européen",
+        "title": "Dispositions relatives",
         "type": "Titre"
       },
       "09_constitutionnalité_conseilconstitutionnel_": {

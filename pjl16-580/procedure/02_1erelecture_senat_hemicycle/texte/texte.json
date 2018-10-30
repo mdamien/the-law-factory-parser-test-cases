@@ -430,13 +430,13 @@
   "sections": [
     {
       "id": "T1",
-      "titre": "Dispositions relatives au président de la république",
+      "titre": "Dispositions relatives au président",
       "type": "section",
       "type_section": "titre"
     },
     {
       "id": "T1 bis",
-      "titre": "Dispositions relatives aux membres du gouvernement",
+      "titre": "Dispositions relatives aux membres",
       "type": "section",
       "type_section": "titre"
     },
@@ -448,7 +448,7 @@
     },
     {
       "id": "T2C1",
-      "titre": "Dispositions relatives aux conditions d'éligibilitéet inéligibilités",
+      "titre": "Dispositions relatives aux conditions d'éligibilité",
       "type": "section",
       "type_section": "chapitre"
     },
@@ -460,13 +460,13 @@
     },
     {
       "id": "T2C3",
-      "titre": "Soutien à l'investissement des communes et de leurs groupements",
+      "titre": "Soutien à l'investissement des communes",
       "type": "section",
       "type_section": "chapitre"
     },
     {
       "id": "T2C4",
-      "titre": "Renforcement des obligations de publicité de la \"réserve ministérielle\"",
+      "titre": "Renforcement des obligations de publicité",
       "type": "section",
       "type_section": "chapitre"
     },
@@ -478,7 +478,7 @@
     },
     {
       "id": "T3",
-      "titre": "Dispositions relatives au médiateur du financement des candidats et des partis politiques",
+      "titre": "Dispositions relatives au médiateur",
       "type": "section",
       "type_section": "titre"
     },

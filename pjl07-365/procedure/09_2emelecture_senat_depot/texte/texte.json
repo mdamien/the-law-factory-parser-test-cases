@@ -392,10 +392,13 @@
     },
     {
       "alineas": {
-        "001": "I. - Non modifié...................................................................... II. - Supprimé",
-        "002": "II. - Supprimé"
+        "001": "I. - Le premier alinéa de l'article 56 de la Constitution est complété par deux phrases ainsi rédigées :",
+        "002": "\"La procédure prévue au dernier alinéa de l'article 13 est applicable à ces nominations. Les nominations effectuées par le président de chaque assemblée sont soumises au seul avis de la commission permanente compétente de l'assemblée concernée.\"",
+        "003": "II. - Supprimé"
       },
-      "liens": [],
+      "liens": [
+        "premier alinéa de l'article 56 de la Constitution"
+      ],
       "order": 27,
       "statut": "none",
       "titre": "25",

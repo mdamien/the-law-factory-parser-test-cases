@@ -15,7 +15,7 @@
   "short_title": "Transparence de la vie publique (texte organique)",
   "stats": {
     "echecs_procedure": 4,
-    "input_text_length": 19793,
+    "input_text_length": 19789,
     "output_text_length": 55519,
     "ratio_articles_growth": 3.2,
     "ratio_texte_modif": 0.6773123750681447,

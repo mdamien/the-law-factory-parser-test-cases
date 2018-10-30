@@ -1183,7 +1183,7 @@
           "diff": "add",
           "directory": "00_1erelecture_senat_depot",
           "id_step": "00_1erelecture_senat_depot",
-          "length": 18681,
+          "length": 18683,
           "n_diff": 1,
           "status": "depot"
         },
@@ -2449,7 +2449,7 @@
         "type": "Chapitre"
       },
       "05_1erelecture_assemblee_hemicycle": {
-        "title": "Dispositions modifiant le code des postes et des communications électroniques",
+        "title": "Dispositions modifiant le code des postes",
         "type": "Chapitre"
       },
       "06_cmp_cmp_commission": {
@@ -2461,11 +2461,11 @@
         "type": "Chapitre"
       },
       "10_nouv.lect._assemblee_commission": {
-        "title": "Dispositions modifiant le code des postes et des communications électroniques",
+        "title": "Dispositions modifiant le code des postes",
         "type": "Chapitre"
       },
       "11_nouv.lect._assemblee_hemicycle": {
-        "title": "Dispositions modifiant le code des postes et des communications électroniques",
+        "title": "Dispositions modifiant le code des postes",
         "type": "Chapitre"
       },
       "13_nouv.lect._senat_commission": {
